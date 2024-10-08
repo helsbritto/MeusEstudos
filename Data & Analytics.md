@@ -18,11 +18,11 @@ O processamento stream permite processar dados em tempo real à medida que são 
 Business Intelligence (BI) é um sistema abrangente que inclui teorias, metodologias, práticas, processos, tecnologias e estruturas para desenvolver inteligência nos negócios. 
 As tecnologias de BI oferecem uma visão detalhada do passado, presente e futuro das operações empresariais. As principais funções do BI incluem:
 
-**- Relatórios:** Geração de relatórios detalhados sobre as operações de negócios./n
-**- Análises:** Fornecimento de insights através de análises de dados./n
-**- Mineração de Dados:** Identificação de padrões e tendências ocultas nos dados./n
-**- Processamento de Eventos Complexos:** Análise em tempo real de eventos críticos./n
-**- Gestão de Desempenho:** Monitoramento e otimização do desempenho empresarial./n
-**- Benchmarking:** Comparação de métricas de desempenho com padrões do setor./n
-**- Análises Preditivas:** Previsão de tendências e comportamentos futuros./n
+**- Relatórios:** Geração de relatórios detalhados sobre as operações de negócios.
+**- Análises:** Fornecimento de insights através de análises de dados.
+**- Mineração de Dados:** Identificação de padrões e tendências ocultas nos dados.
+**- Processamento de Eventos Complexos:** Análise em tempo real de eventos críticos.
+**- Gestão de Desempenho:** Monitoramento e otimização do desempenho empresarial.
+**- Benchmarking:** Comparação de métricas de desempenho com padrões do setor.
+**- Análises Preditivas:** Previsão de tendências e comportamentos futuros.
 **- Análises Prescritivas:** Recomendações baseadas em dados para ações futuras.
